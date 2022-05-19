@@ -14,7 +14,7 @@ setup(
     description="A Python library for scraping the DuckDuckGo search engine.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/adahirwar/websearch/",
+    url="https://github.com/adahirwar/websearch",
     packages=["websearch"],
     classifiers=[
         "Programming Language :: Python :: 3",
