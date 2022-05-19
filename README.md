@@ -4,7 +4,7 @@ websearch is a Python library for searching DuckDuckGo, easily. websearch uses r
 ## Installation
 To install, run the following command:
 ```bash
-python3 -m pip install pywebsearch
+python3 -m pip install pyduckduckgosearch
 ```
 
 ## usage
