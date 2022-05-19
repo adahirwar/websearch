@@ -7,7 +7,7 @@ To install, run the following command:
 python3 -m pip install pyduckduckgosearch
 ```
 
-## usage
+## Usage
 To get results for a search term, simply use the search function in websearch. For example, to get results for "DuckDuckGo" in DuckDuckGo, just run the following program:
 ```python
 from websearch import search
