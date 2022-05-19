@@ -7,8 +7,8 @@ with open("requirements.txt") as fh:
     requirements = fh.read().split("\n")
 
 setup(
-    name="pywebsearch",
-    version="1.0.0",
+    name="pyduckduckgosearch",
+    version="1.1.0",
     author="Arvind Ahirwar",
     author_email="ad.ahirwar@gmail.com",
     description="A Python library for scraping the DuckDuckGo search engine.",
